@@ -71,8 +71,8 @@ ru:
   BUTTON_UPDATE: Обновить
   BUTTON_EDIT: Редактировать
   BUTTON_CONFINE_MOUSE: Конфинировать курсор мыши
-  BUTTON_SHOW_STUDIO: Mostrar o estúdio
-  BUTTON_CANCEL_GAME: Cancelar o jogo
+  BUTTON_SHOW_STUDIO: Осмотреть студию
+  BUTTON_CANCEL_GAME: Отменить игру
   BUTTON_VIEW_SEQUEL: Посмотреть продолжение
 
   # Labels, descriptive
@@ -80,7 +80,7 @@ ru:
     Выберите функции для обновления
     в соответствии с ожиданиями игроков.
   TOOLTIP_UPGRADE_OLD_GAMEENGINE: |
-    При обновлении игрового движка применяется пенальти,
+    При обновлении игрового движка применяется штраф,
     который влияет только на количество требуемых очков.
   LABEL_TOO_MUCH_TIME_SPENT: |
     Либо ваша команда разработчиков недостаточно сбалансирована,
@@ -116,7 +116,7 @@ ru:
   LABEL_IAP_RARITY: Раритет
   LABEL_IAP_RARITY_UNCOMMON: Необычный
   LABEL_IAP_RARITY_RARE: Редкий сайт
-  LABEL_IAP_RARITY_EPIC: Epic
+  LABEL_IAP_RARITY_EPIC: Эпический
   LABEL_IAP_RARITY_LEGENDARY: Легендарный
   LABEL_FINANCIAL_DETAILS: Финансовые данные
   LABEL_AD_NAME: Объявление
@@ -249,8 +249,8 @@ ru:
   LABEL_GAME_ENGINE_SIMPLE_ANIMATION: "Простая анимация"
   LABEL_GAME_ENGINE_DYNAMIC_ANIMATION: "Динамическая анимация"
   LABEL_GAME_ENGINE_AI_BASED_ANIMATION: "Анимация на основе ИИ"
-  LABEL_GAME_ENGINE_BASIC_TUTORIEL: "Базовый туториал"
-  LABEL_GAME_ENGINE_INTERACTIVE_TUTORIEL: "Интерактивный туториал"
+  LABEL_GAME_ENGINE_BASIC_TUTORIEL: "Базовое обучение"
+  LABEL_GAME_ENGINE_INTERACTIVE_TUTORIEL: "Интерактивное обучение"
   LABEL_GAME_ENGINE_LOADING_SCREEN: "Экран загрузки"
   LABEL_GAME_ENGINE_BACKGROUND_LOADING: "Загрузка в фоновом режиме"
   LABEL_GAME_ENGINE_SIMPLE_CINEMATIC: "Простая кинематография"
@@ -780,7 +780,7 @@ ru:
   LABEL_STUDIO: Студия
   LABEL_TARGETTED_AUDIENCE: Целевая аудитория
   LABEL_THEME: Тема
-  LABEL_TUTORIEL: Туториал
+  LABEL_TUTORIEL: Обучение
   LABEL_USERINTERFACE: Пользовательский интерфейс
   LABEL_THEME_MOVIE_ADAPTATION: Адаптация фильма
   LABEL_THEME_PREHISTORY: Предыстория
@@ -793,8 +793,8 @@ ru:
   LABEL_THEME_DESERT: Пустыня
   LABEL_THEME_COMEDY: Комедия
   LABEL_THEME_DRAGON: Дракон
-  LABEL_THEME_EROTIC: Эротическая
-  LABEL_THEME_SPY: Шпионская
+  LABEL_THEME_EROTIC: Эротика
+  LABEL_THEME_SPY: Шпионы
   LABEL_THEME_FANTASY: Фантастика
   LABEL_THEME_GHOST: Привидение
   LABEL_THEME_HISTORY: История
@@ -807,24 +807,24 @@ ru:
   LABEL_THEME_PARK: Парк
   LABEL_THEME_PIRATES: Пираты
   LABEL_THEME_SCIENCE_FICTION: Научная фантастика
-  LABEL_THEME_SUPER_HEROS: Супер герой
-  LABEL_THEME_VAMPIRE: Вампир
+  LABEL_THEME_SUPER_HEROS: Супергерои
+  LABEL_THEME_VAMPIRE: Вампиры
   LABEL_THEME_TIME_TRAVEL: Путешествие во времени
   LABEL_THEME_WESTERN: Вестерн
   LABEL_THEME_ZOMBIE: Зомби
-  LABEL_THEME_MEDIEVAL: Средневековый
-  LABEL_THEME_GAMEDEV: Разработка
+  LABEL_THEME_MEDIEVAL: Средневековье
+  LABEL_THEME_GAMEDEV: Разработка игр
   LABEL_THEME_HACK: Взлом
   LABEL_THEME_HUNT: Охота
   LABEL_THEME_ANIME: Анимэ
   LABEL_THEME_MILITARY: Военные
   LABEL_THEME_INDUSTRIALIZATION: Индустриализация
-  LABEL_THEME_PET: Животное
+  LABEL_THEME_PET: Домашнее животное
   LABEL_THEME_FOOTBALL: Футбол
   LABEL_THEME_SOCCER: Регби
   LABEL_THEME_CARTOON: Мультфильм
-  LABEL_THEME_COOK: Повар
-  LABEL_THEME_URBAN: Городской
+  LABEL_THEME_COOK: Готовка
+  LABEL_THEME_URBAN: Город
   LABEL_THEME_KAIJU: Монстр
   LABEL_THEME_EVOLUTION: Эволюция
   LABEL_THEME_CYBERPUNK: Киберпанк
@@ -835,8 +835,8 @@ ru:
   LABEL_TYPE_4X: 4X
   LABEL_TYPE_ACTION_ADVENTURE: Экшн Приключение
   LABEL_TYPE_ACTION: Экшн
-  LABEL_TYPE_BEAT_THEM_ALL: Beat-em-all
-  LABEL_TYPE_VERSUS_FIGHTING: Драки
+  LABEL_TYPE_BEAT_THEM_ALL: Beat-em-up
+  LABEL_TYPE_VERSUS_FIGHTING: Файтинг
   LABEL_TYPE_PLATFORMS: Платформер
   LABEL_TYPE_SHOOT: Стрелялка
   LABEL_TYPE_SHOOT_EM_UP: Shoot'em up
@@ -844,7 +844,7 @@ ru:
   LABEL_TYPE_TPS: Шутер от 3-го лица
   LABEL_TYPE_HACK_N_SLASH: Hack'n'slash
   LABEL_TYPE_OPEN_WORLD: Открытый мир
-  LABEL_TYPE_HTA_LIKE: HTA
+  LABEL_TYPE_HTA_LIKE: Браузерная игра
   LABEL_TYPE_INFILTRATION: Внедрение
   LABEL_TYPE_SURVIVAL: Выживание
   LABEL_TYPE_HORROR: Хоррор
@@ -861,8 +861,8 @@ ru:
   LABEL_TYPE_ACTION_RPG: Экшн RPG
   LABEL_TYPE_DUNGEON_CRAWLER: Подземелье
   LABEL_TYPE_MMORPG: MMORPG
-  LABEL_TYPE_DUNGEON: Данжи
-  LABEL_TYPE_CROOK_LIKE: Crook
+  LABEL_TYPE_DUNGEON: Подземелья
+  LABEL_TYPE_CROOK_LIKE: Мошенники
   LABEL_TYPE_TACTICAL_RPG: Тактическая RPG
   LABEL_TYPE_REFLEXION: Классическая головоломка
   LABEL_TYPE_MAZE: Лабиринт
@@ -870,7 +870,7 @@ ru:
   LABEL_TYPE_PUZZLE: Головоломка
   LABEL_TYPE_SIMULATION: Симуляторы
   LABEL_TYPE_ANIMALS: Животные
-  LABEL_TYPE_GOD_GAME: Игра про Бога
+  LABEL_TYPE_GOD_GAME: Симулятор Бога
   LABEL_TYPE_FARMING: Фермерство
   LABEL_TYPE_LIVING_ORGANISM: Живой организм
   LABEL_TYPE_SPORT: Спорт
@@ -1051,16 +1051,16 @@ ru:
   LABEL_ADOPT_CAT_TITLE: Бродячий кот
   LABEL_UNLOCK_MYSTERY_LIKE_DESCRIPTION: >
     В Blue Studio два брата только что выпустили новую игру. Это игровой
-    чейнджер, и появился новый тип игры: таинственный
-  LABEL_UNLOCK_MYSTERY_LIKE_TITLE: Жанр 'мистика' был изобретен
+    чейнджер, и появился новый тип игры: Мистика
+  LABEL_UNLOCK_MYSTERY_LIKE_TITLE: Жанр 'Мистика' был изобретен
   LABEL_UNLOCK_HTA_LIKE_DESCRIPTION: >
     DustStar только что выпустила новую игру, которая произвела революцию в
-    игровой индустрии. Она создала жанр HTA
-  LABEL_UNLOCK_HTA_LIKE_TITLE: Жанр HTA был изобретен
+    игровой индустрии. Она создала жанр Браузерная игра
+  LABEL_UNLOCK_HTA_LIKE_TITLE: Жанр Браузерная игра был изобретен
   LABEL_UNLOCK_CROOK_LIKE_TYPE_DESCRIPTION: >
     3 парня в гараже создали новую новую игру!
-    Она настолько знаменита, что был создан новый игровой жанр "Crook".
-  LABEL_UNLOCK_CROOK_LIKE_TYPE_TITLE: Crook был изобретен
+    Она настолько знаменита, что был создан новый игровой жанр "Мошенничество".
+  LABEL_UNLOCK_CROOK_LIKE_TYPE_TITLE: Мошенничество был изобретен
   LABEL_UNLOCK_MOBA_LIKE_DESCRIPTION: >
     3 Американских дизайнера создали мод для знаменитой игры! 
     Родился жанр: MOBA
@@ -1450,7 +1450,7 @@ ru:
   TOOLTIP_HUMANRESOURCE: |
     Назначьте менеджера по работе с персоналом для управления графиками работы ваших сотрудников.
   TOOLTIP_GAME_OF_THE_YEAR: |
-    Каждый год выдвигается новая игра Game of the Year
+    Каждый игра год выдвигается на Игра Года
   TOOLTIP_DESK_REPLACE: |
     Замена офисных столов и обновление компьютеров
   TOOLTIP_POSTMORTEM_RED_ZONE: |
@@ -1535,7 +1535,7 @@ ru:
   NETWORK: Сеть
   MODDING: Моддинг
   CUTSCENES: Кат-сцены
-  TUTORIEL: Туториал
+  TUTORIEL: Обучение
   MARKETING_CAMPAIGN_SOCIALNETWORK: Целевая рекламная кампания
   MARKETING_CAMPAIGN_MAILINGLIST: Рекламная кампания по электронной почте
   GAMEPORT: Портировать игру
